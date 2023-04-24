@@ -12,7 +12,7 @@ interface Shape {
 // public accessor 클래스 외부에서 접근 O
 // private accessor 클래스 외부에서 접근 X
 class Circle implements Shape {
-   // radius number; // 멤버 변수 radius 타입 설정
+   // radius : number; // 멤버 변수 radius 타입 설정
    //    constructor(radius: number) {
    constructor(public radius: number) {
       this.radius = radius;

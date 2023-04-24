@@ -3,7 +3,7 @@
 
    본 레포지토리는 [벨로퍼트의 리액트 프로젝트에서 타입스크립트 사용하기](https://velog.io/@velopert/series/react-with-typescript) 를 보며 학습한 내용이 담겨있습니다. 
    <br><br>
-   [📚 학습기록 바로가기](https://yiseo.notion.site/TypeScript-176cd6803d0647ba8b5156501bd6fc53)
+   [학습기록 바로가기](https://yiseo.notion.site/TypeScript-176cd6803d0647ba8b5156501bd6fc53)
 </div>
 
 

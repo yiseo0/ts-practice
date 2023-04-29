@@ -1,7 +1,4 @@
-import React from 'react';
-import { useSelector } from 'react-redux';
 import TodoItem from './TodoItem';
-import { Todo } from '../modules/todos';
 import useTodos from '../hooks/useTodos';
 
 function TodoList() {
